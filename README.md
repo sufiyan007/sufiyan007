@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sufiyan</h1>
 <h3 align="center">A passionate Tech Enthusiast || IT undergrad</h3>
 
-<img align="right" alt="coding" width="400"src="https://giphy.com/embed/RbDKaczqWovIugyJmW">
+<img align="right" alt="coding" width="400"src=![Uploading image.png…]()>
 
 <p align="left"> <img src=![image](https://user-images.githubusercontent.com/99864410/208250415-ba2c0733-d1d0-485d-a1cb-f14432f89a03.png) /> </p>
 
