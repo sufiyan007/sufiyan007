@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sufiyan</h1>
 <h3 align="center">A passionate Tech Enthusiast || IT undergrad</h3>
 
-<img align="right" alt="coding" width="400" src=![image](https://user-images.githubusercontent.com/99864410/208251015-82ab5940-fc57-4aab-8888-97f0569fcad4.png)>
+<img align="right" alt="coding" width="400" src="https://userimages.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src=![image](https://user-images.githubusercontent.com/99864410/208250415-ba2c0733-d1d0-485d-a1cb-f14432f89a03.png) /> </p>
 
