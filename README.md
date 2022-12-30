@@ -6,7 +6,7 @@
 <p align="left"> <img src=![image](https://user-images.githubusercontent.com/99864410/208250415-ba2c0733-d1d0-485d-a1cb-f14432f89a03.png) /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/sufiyan00071" target="blank"><img src="https://img.shields.io/twitter/follow/sufiyan00071?logo=twitter&style=for-the-badge" alt="sufiyan00071" /></a> </p>
+
 
 - 🔭 I’m currently working on **Medication and Hospital Management**
 
