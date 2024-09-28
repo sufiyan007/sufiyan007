@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/99864410/208250415-ba2c0733-d1d0-485d-a1cb-f14432f89a03.png" /> </p>
 
-- 🔭 I’m currently working on **Medication and Hospital Management**
+- 🔭 I’m currently working as **Software Developer in SOSUV CONSULTING**
 
 - 🌱 I’m skilled in **Node.js, React.js, Express.js, HTML, CSS, JavaScript, PostgreSQL, AWT, Docker, Kubernetes, MySQL, and Java**
 
