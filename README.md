@@ -37,17 +37,7 @@
   <img src="https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge"/>
-</p>
-
-### 🔥 Backend Expertise  
-- Building scalable **RESTful** & **GraphQL APIs**  
-- Authentication & Authorization (JWT, OAuth, Sessions)  
-- Writing clean modular backend architecture  
-- Implementing **Microservices**, service-to-service communication  
-- Error handling, data validation, logging, monitoring  
-- Node.js performance optimization  
-- Working with message queues (**Kafka / RabbitMQ**) - optional mention  
-- **Unit testing** & integration testing in Node.js  
+</p> 
 
 ---
 
@@ -56,10 +46,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
-- Database design, indexing, normalization  
-- Writing optimized SQL queries  
-- ORM/ODM tools like Sequelize / Mongoose  
 
 ---
 
@@ -70,20 +56,10 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-### 🧩 Cloud & Deployment Expertise  
-- Deploying Node.js applications on **AWS EC2**  
-- File storage using **AWS S3**  
-- Role management using **IAM**  
-- API deployment via **API Gateway + Lambda**  
-- CI/CD pipelines  
-- Docker-based container deployments  
-- Kubernetes basics (pods, services, deployments)  
 
 ---
 
 ## 🧠 DSA & Problem Solving  
-- Practicing DSA regularly (Binary Search, DP, Two Pointers, Trees, Graphs)  
-- Strong understanding of algorithmic thinking  
 
 🔗 **LeetCode:** https://leetcode.com/u/sufiyan00071/  
 
